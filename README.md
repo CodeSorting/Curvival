@@ -69,9 +69,10 @@
   gcc Curvival.c -lncurses -lm
   ./a.out
   ```
-  이미 Curvival이라는 실행 파일이 있긴 하다.<br>
-  gameVersion은 지금까지 게임을 만들어왔던 과정들이 있다.<br>
-  tempGame은 중간 점검 결과였다.<br>
+  - 이미 Curvival이라는 실행 파일이 있긴 하다.
+  - Ctrl + '+'로 화면 확대해서 플레이 하면 된다.
+  - gameVersion은 지금까지 게임을 만들어왔던 과정들이 있다.
+  - tempGame은 중간 점검 결과였다.
   
 ---
 
